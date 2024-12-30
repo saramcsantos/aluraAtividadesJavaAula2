@@ -27,6 +27,20 @@ Essas instalações, tanto do JDK quanto do JRE, são importantes porque incluem
 
 *Importante: ao instalar o Intellij escolha a edição community, ela é gratuita*
 
-## Enunciado das questões resolvidas:
+## Sobre os programas deste repositório:
+1. **Variáveis:**
+   - neste programa iniciamos o conhecimento de variáveis em Java, o significado de tipagem estática, o conhecimento da classe String, a formatação de String usando os métodos: *String.format() e .formatted(), e também aprendemos sobre o casting (conversão de tipos em Java);
+2. **Operador de incremento:**
+   - neste programa aprendemos sobre as diferenças entre o pré-incremento e o pós-incremento. Incremento em programação é a adição de mais 1 em um valor numérico. Quando fazemos um pré-incremento essa adição ocorre antes do valor da variável ser utilizado, e o pós-incremento essa adição ocorre depois do uso do valor da variável.
+3. **Comparação de String:**
+   - neste programa aprendemos sobre as diferenças entre equals e equalsIgnoreCase, ambos são métodos da classe String que servem para comparar o valor de uma String com outra String. A diferença entre eles está que o método equalsIgnoreCase ignora letras maiúsculas e minúsculas no momento da verificação de igualdade, enquanto que o equals leva em consideração as letras maiúsculas e minúsculas dando por diferente Strings que estejam letras distintas, por exemplo: "Java" seria diferente de "java".
+4. **Conversão de temperatura:**
+   - Escreva um programa que converta uma temperatura em graus Celsius para Fahrenheit. Utilize variáveis para representar os valores das temperaturas e imprima no console o valor convertido de Celsius para Fahrenheit. A fórmula para converter temperaturas de graus Celsius para Fahrenheit é: (temperatura * 1.8) + 32.
 
 ## Conteúdo estudado e aprendido com o desenvolvimento dessas atividades: 
+1. Tipagem Estática;
+2. Conversão de tipos (casting);
+3. Métodos de formatação de String;
+4. Incremento
+5. Métodos de comparação de String;
+6. Aplicação da lógica de programação para a conversão de temperatura
