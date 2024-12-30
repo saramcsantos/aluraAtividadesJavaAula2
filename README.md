@@ -1,4 +1,4 @@
-# Exercícios iniciais de Java
+# Atividades da 2ª aula do curso de Java: criando a sua primeira aplicação
 
 ## Descrição
 Este repositório é dedicado as atividades iniciais de Java, do curso de "Java: criando a sua primeira aplicação" feito na Alura. As atividades deste repositório estão relacionadas a prática do uso de variáveis, 
